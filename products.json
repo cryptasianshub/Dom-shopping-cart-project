@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Covered onesie",
+        "price": 40,
+        "image": "pexels-thais-de-souza-1922681.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Crochet bikini",
+        "price": 30,
+        "image": "pexels-roberval-lima-361081.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Victoria's secret",
+        "price": 80,
+        "image": "pexels-pixabay-289262.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Laise onesie",
+        "price": 30,
+        "image": "pexels-nicolas-postiglioni-826358.jpg"
+    },
+    {
+        "id": 5,
+        "name": "marilyn monroe",
+        "price": 50,
+        "image": "pexels-nappy-936111.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cece's secret vol.2",
+        "price": 70,
+        "image": "pexels-janko-ferlic-1692050.jpg"
+    },
+    {
+        "id": 7,
+        "name": "calvin klein",
+        "price": 100,
+        "image": "pexels-danielle-reese-2632670.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Tej's secret vol.3",
+        "price": 85,
+        "image": "pexels-daniel-ribeiro-1758261.jpg"
+    }
+    
+]
